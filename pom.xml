@@ -1,0 +1,4 @@
+<properties>
+  <sonar.organization>christinepaidorg1</sonar.organization>
+  <sonar.host.url>https://sc-staging.io</sonar.host.url>
+</properties>
